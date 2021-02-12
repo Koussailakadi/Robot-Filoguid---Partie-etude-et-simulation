@@ -12,4 +12,4 @@ LPC2378, des capteurs inductifs, des télémètres, DTMF, capteurs infra-rouge, 
 microcontrôleurs avec le langage C sur l’outil KEILμvision.
 
 
-[Intro.pdf](http://USERNAME.github.io/REPONAME/docs/Intro.pdf).
+[Intro.pdf](https://github.com/Koussailakadi/Robot-Filoguid---Partie-etude-et-simulation/blob/main/projet%203E260%20-slides-.pdf)
